@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:51.733595
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:31
 #+TITLE: 成唯識論述記
 #+PROPERTY: CBETA_ID T43n1830
 #+PROPERTY: ID KR6n0026
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1830
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0026_T_005-0387c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 第五本成唯識論述記卷第五(本)¶
+成唯識論述記卷第五(本)¶
 ¶
 沙門基撰¶
 
@@ -1919,10 +1918,7 @@
 諸論上下雜有致此推究。第三總結作如¶
 是說不違教理。¶
 
-:PROPERTIES:
-:head: 論第五卷
-:END:
-¶
+* 論第五卷¶
 
 論。此染污意何受相應。
 
@@ -2489,8 +2485,7 @@
 成唯識論述記卷第五(本)¶
 ¶
 ¶
-
- 第五末成唯識論述記卷第五(末)¶
+成唯識論述記卷第五(末)¶
 ¶
 沙門基撰¶
 
@@ -3677,8 +3672,7 @@
 論。如是已說至其相云何。
 
 述曰。於中有¶
-二。初結前生後以發論端。第二舉頌依¶
-問正答　就此能變總有九頌。以九門分
+二。初結前生後以發論端。第二舉頌依問正答　就此能變總有九頌。以九門分
 <pb:KR6n0026_T_005-0415c>¶
 別。第一出能變差別。第二自性。第三行相。¶
 第四三性。第五心所相應。第六三受俱起。第¶

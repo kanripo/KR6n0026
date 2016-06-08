@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:52.099997
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:31
 #+TITLE: 成唯識論述記
 #+PROPERTY: CBETA_ID T43n1830
 #+PROPERTY: ID KR6n0026
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1830
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0026_T_008-0503c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 第八本成唯識論述記卷第八(本)¶
+成唯識論述記卷第八(本)¶
 ¶
 沙門基撰¶
 
@@ -2150,8 +2149,7 @@
 成唯識論述記卷第八(本)¶
 ¶
 ¶
-
- 第八末成唯識論述記卷第八(末)¶
+成唯識論述記卷第八(末)¶
 ¶
 沙門基撰¶
 
