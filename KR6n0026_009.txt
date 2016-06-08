@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:53.771760
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:32
 #+TITLE: 成唯識論述記
 #+PROPERTY: CBETA_ID T43n1830
 #+PROPERTY: ID KR6n0026
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1830
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0026_T_009-0539c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
@@ -1818,7 +1818,7 @@
 ¶
 沙門基撰¶
 
-論第九¶
+* 論第九¶
 
 論。若有三性至皆無自性。
 
