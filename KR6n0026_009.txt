@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:59.747415
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:32
 #+TITLE: 成唯識論述記
 #+PROPERTY: CBETA_ID T43n1830
 #+PROPERTY: ID KR6n0026
@@ -1818,7 +1818,7 @@
 ¶
 沙門基撰¶
 
-論第九¶
+* 論第九¶
 
 論。若有三性至皆無自性。
 
